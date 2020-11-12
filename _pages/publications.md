@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: as  of Nov 2020
-years: [2020, 2019, 2016, 2015, 2014, 2012, 1956, 1950, 1935, 1905]
+years: [2020, 2019, 2016, 2015, 2014, 2012]
 nav: true
 ---
 

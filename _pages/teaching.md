@@ -2,17 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I instructed or assisted
 nav: true
 ---
 
-### University of Michigan
-*Instructor*: Statistical Consulting
-Fall 2020, Spring 2021
+### Instructor
+**University of Michigan**<br /> 
+Statistical Consulting (STATS 504) Fall 2020, Spring 2021<br />
+This course aims to prepare master students for the practice of statistics, data science, and machine learning.
 
-### Carnegie Mellon University
-*Teaching Assistant*
+### Teaching Assistant
+**Carnegie Mellon University**
+- Times Series, Chad Schafer, Fall 2019
+- Policy Analysis, Deanna Matthews, Spring 2019
+- Data Mining, Max G'Sell, Fall 2018
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+**Georgetown University**
+- Statistical Modeling II, Ionut Bebu, Spring 2010
+- Statistical Modeling I, George Luta, Fall 2009
